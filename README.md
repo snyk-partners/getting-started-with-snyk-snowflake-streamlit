@@ -45,6 +45,7 @@ To get started with this project, you'll need to follow these steps:
     ```shell
     pyenv install 3.8.20
     pyenv vitrualenv 3.8.20 streamlit 
+    pyenv activate streamlit
     ```
 
 5. Once `pyenv` is installed, navigate to the project directory and run the following command to install the project dependencies:
